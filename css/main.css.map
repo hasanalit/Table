@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACF,SAAS,EAAE,CAAC;CACf",
+    "sources": [
+        "../scss/all-blocks/main.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
